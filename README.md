@@ -3,4 +3,4 @@ Software for bookstore management with features such as bookstore staff manageme
 <br>
 Technology in use: C# Winform (.NET Framework), Sql server
 <br>
-Team member: 4
+Team member: 3
